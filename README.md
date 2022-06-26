@@ -1,8 +1,9 @@
 #PORTFOLIO
 
 ##Project Description
+![Screenshot from 2022-06-26 23-05-00](https://user-images.githubusercontent.com/104434473/175832606-12f5b248-5c8b-4de2-8437-94769eb3d497.png)
 
-Screenshot from 2022-06-26 23-05-00.png
+
 
 This project is about an application used to locate houses to rent in Nairobi.Some of the challenges faced when implementing my projest was the use of Javascript API as I am still new to it.I hope to continue learning more about Javascript and implement new METHODS that i would have learned.
 
