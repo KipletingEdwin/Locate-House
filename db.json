@@ -11,3 +11,14 @@
         ]
         
       },
+      {
+        "id": 2,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-yH9zSRnepE1LkHoSP319VZgy2viacpZlNw&usqp=CAU",
+        "price": "Amount : Ksh 7,500 Per Month",
+        "town": "Westlands",
+        "location": "Single Room Located in Grevillea, Nairobi, Westlands Area, Westlands",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
