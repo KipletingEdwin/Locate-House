@@ -1,0 +1,13 @@
+{
+    "houses": [
+      {
+        "id": 1,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPlj0oC1r_m9jBvP3WiSoqtfQp0RA039zJTg&usqp=CAU",
+        "price": "Amount : Ksh 30,500 Per Month",
+        "town": "Dagoretti",
+        "location": "One Bedroom Located in Dagoretti Corner,Dagoretti",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
