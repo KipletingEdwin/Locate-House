@@ -61,3 +61,28 @@ header nav ul li{
     color: black;
     font-weight: 700;
 }
+img{
+    height: 250px; 
+    width: auto;
+}
+textarea{
+    display: block;
+    height: 80px;
+    width: 80%;
+    border: 1px solid black;   
+}
+#comment-form{  
+   width: 40%;
+   height: 30%;
+   position: absolute;
+   left: 35%;
+} 
+#comment{
+    background-color: white;
+}
+button{
+    border: 1px solid black;
+    padding: 5px;
+    background-color:rgb(176, 116, 116);
+    border-radius: 5px;
+}
