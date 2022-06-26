@@ -33,3 +33,22 @@ function displayInMainSection(event){
     .catch(error=>console.log(error))
     }
 
+    //Displaying house details in the mainsection
+function updateHouse(houses){
+    document.getElementById('price').textContent = houses.price;
+    document.getElementById('firstHouse').src = houses.image_url;
+    document.getElementById('location').textContent= houses.location;
+}
+
+// Adding a user tailored review;
+
+document.querySelector('#comment-form').addEventListener('submit',(e) =>{
+    e.preventDefault()
+    handleComment(e.target.comment.value)
+})
+function handleComment(comments){
+    let p = document.createElement ('p')
+    p.textContent=comments
+    document.querySelector('#comment-list').appendChild(p)
+}
+
