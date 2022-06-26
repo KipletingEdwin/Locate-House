@@ -55,3 +55,14 @@
         ]
         
       },
+      {
+        "id": 6,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSka1rSDVFMluSlfvdnSjdvHfIhCJ4LQryA&usqp=CAU",
+        "price": "Ksh 10,500",
+        "town": "Kasarani",
+        "location": "Located in Ruai, Kasarani",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
