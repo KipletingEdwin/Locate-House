@@ -99,3 +99,15 @@
         ]
         
       },
+      {
+        "id": 10,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6okpwLrG0xF4esDUI1RE0BTXf2I-bjo_RQ&usqp=CAU",
+        "price": "Ksh 8,500",
+        "town": "Kamukunji",
+        "location": "Single Room located in Kamukunji",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      }
+      ]}
