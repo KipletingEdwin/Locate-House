@@ -39,3 +39,25 @@ header nav ul li{
     display: inline-block;
     width: 8%;
 }
+.house-details{
+    height: 500px;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+.house-details h2{
+     margin: 0px;
+}
+.house-details h2{
+    font-size: 35px;
+    text-align: center;
+}
+.house-details h3{
+    bottom: 150px;
+    text-align: center;
+    color: red;
+}
+#location{
+    color: black;
+    font-weight: 700;
+}
