@@ -71,4 +71,16 @@ function handleComment(comments){
 
     // })
 }
+document.getElementById('book').addEventListener('click',clickAlert);
+function clickAlert(){
+    alert('You have booked')
+}
+
+
+
+getTownMenu()
+// addComment()
+// townList()
+// townItem()
+// existingTowns()
 
