@@ -58,7 +58,7 @@
       {
         "id": 6,
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSka1rSDVFMluSlfvdnSjdvHfIhCJ4LQryA&usqp=CAU",
-        "price": "Ksh 10,500",
+        "price": "Amount :Ksh 10,500 per month",
         "town": "Kasarani",
         "location": "Located in Ruai, Kasarani",
         "comments": [
@@ -69,7 +69,7 @@
       {
         "id": 7,
         "image_url": "https://i.roamcdn.net/prop/brk/listing-thumb-376w/c4d051fef49f9bd0d99f9802b866d276/-/prod-property-core-backend-media-brk/4214691/21622a8c-d89a-42bc-9b05-91a96fbf7017.jpg",
-        "price": "Ksh 16,500",
+        "price": "Amount Ksh 16,500 Per Month",
         "town": "Ruaraka",
         "location": "Located in Lane 4,Ridways,Ruaraka",
         "comments": [
@@ -80,7 +80,7 @@
       {
         "id": 8,
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7srym9J0n9vEmjrqx3j8vdMkBHN7K0tNog&usqp=CAU",
-        "price": "Ksh 20,500",
+        "price": "Amount :Ksh 20,500 Per Month",
         "town": "Embakasi",
         "location": "Located in Parc Vista,Embakasi Area in Embakasi",
         "comments": [
@@ -91,7 +91,7 @@
       {
         "id": 9,
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJlnft5E78DIE9Db3i_oSEUOo4MnQDLTjUXQ&usqp=CAU",
-        "price": "Ksh 9,500",
+        "price": "Amount : Ksh 9,500 Per Month",
         "town": "Makadara",
         "location": "Bedsitter located in Springvalley, Makadara",
         "comments": [
@@ -102,7 +102,7 @@
       {
         "id": 10,
         "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK6okpwLrG0xF4esDUI1RE0BTXf2I-bjo_RQ&usqp=CAU",
-        "price": "Ksh 8,500",
+        "price": "Amount : Ksh 8,500 Per Month",
         "town": "Kamukunji",
         "location": "Single Room located in Kamukunji",
         "comments": [
