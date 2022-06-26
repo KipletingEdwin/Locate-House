@@ -44,3 +44,14 @@
         ]
         
       },
+      {
+        "id": 5,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdlS1sqDViceznFYjZw4oklGzwkW0IaMzB6A&usqp=CAU",
+        "price": "Amount :Ksh 30,500 Per Month",
+        "town": "Roysambu",
+        "location": "One bedroom Located in Kahawa,Roysambu",
+        "comments": [
+          "It's flat! Just the way I like it!!"
+        ]
+        
+      },
