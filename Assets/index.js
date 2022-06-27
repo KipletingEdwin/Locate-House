@@ -51,25 +51,7 @@ function handleComment(comments){
     p.textContent=comments
     document.querySelector('#comment-list').appendChild(p)
 
-     // fetch('http://localhost:3000/houses')
-    // .then(resp => resp.json())
-    // .then(houses =>{
-    //     const displayedComment = document.getElementById('comment-list').textContent;
-    //     let sameHouse = houses.find(element =>{
-    //         return element.name === displayedComment
-    //     })
-    //     sameHouse.comments.push(handleComment)
-    //     fetch(`http://localhost:3000/houses/${sameHouse.id}`,{
-    //         method:'PATCH',
-    //         headers:{'Content-Type':'application/json'},
-    //         body:JSON.stringify({"comments":sameHouse.comments})
-
-    //     })
-    //     .then( respo => respo.json())
-    //     .then(data => console.log(data))
-    //     .catch(error => console.log(error))
-
-    // })
+ 
 }
 document.getElementById('book').addEventListener('click',clickAlert);
 function clickAlert(){
