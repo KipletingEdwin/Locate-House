@@ -3,10 +3,12 @@
     padding: 0px;
     background-color:rgb(209, 171, 171);
 }
+
 header{
     height: 120px;
     width: 100%;
 }
+
 header h1{
     color: black;
     height: 50px;
@@ -14,11 +16,13 @@ header h1{
     font-weight: bolder;
     font-family: Lobster,sans-serif;  
 }
+
 header p{
     text-align: center;
     font-size: larger;
     color: white;
 }
+
 #town-list li{
     background-color: rgb(176, 116, 116);
     border: 1px solid black;
@@ -27,6 +31,7 @@ header p{
     margin: 5px;
     cursor: pointer;
 }
+
 #town-list li:hover{
     color: white;
 
@@ -36,51 +41,66 @@ header nav ul{
     list-style: none;
     margin-left: 15px;
 }
+
 header nav ul li{
     display: inline-block;
     width: 8%;
 }
+
 .house-details{
     height: 500px;
     float: left;
     width: 100%;
     text-align: center;
 }
+
 .house-details h2{
      margin: 0px;
 }
+
 .house-details h2{
     font-size: 35px;
     text-align: center;
 }
+
 .house-details h3{
     bottom: 150px;
     text-align: center;
     color: red;
 }
+
 #location{
     color: black;
     font-weight: 700;
 }
+
 img{
     height: 250px; 
     width: auto;
 }
+
 textarea{
     display: block;
     height: 80px;
     width: 80%;
     border: 1px solid black;   
 }
+
 #comment-form{  
    width: 40%;
    height: 30%;
    position: absolute;
    left: 35%;
 } 
+
+#comment-form label{
+    color: red;
+}
+
 #comment{
     background-color: white;
 }
+
 button{
     border: 1px solid black;
     padding: 5px;

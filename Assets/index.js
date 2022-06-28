@@ -38,9 +38,10 @@ function updateHouse(houses){
     document.getElementById('price').textContent = houses.price;
     document.getElementById('firstHouse').src = houses.image_url;
     document.getElementById('location').textContent= houses.location;
+    document.getElementById('comment-list').textContent = houses.comments;
 }
 
-// Adding a user tailored review;
+// Adding a user tailored comments;
 
 document.querySelector('#comment-form').addEventListener('submit',(e) =>{
     e.preventDefault()
@@ -65,4 +66,5 @@ getTownMenu()
 // townList()
 // townItem()
 // existingTowns()
+// getComment()
 
