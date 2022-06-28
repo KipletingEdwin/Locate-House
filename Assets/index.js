@@ -65,6 +65,5 @@ getTownMenu()
 // addComment()
 // townList()
 // townItem()
-// existingTowns()
 // getComment()
 
