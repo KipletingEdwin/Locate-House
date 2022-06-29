@@ -62,8 +62,5 @@ function clickAlert(){
 
 
 getTownMenu()
-// addComment()
-// townList()
-// townItem()
-// getComment()
+
 
