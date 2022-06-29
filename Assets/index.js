@@ -1,8 +1,10 @@
  //Here is my code
 
 //Fetch all towns and display them to navbar menu section;
+const url = "https://mighty-bayou-33256.herokuapp.com/houses"
+
 function getTownMenu(){
-    fetch('http://localhost:3000/houses')
+    fetch(url)
     .then(res=>res.json())
     .then(houses =>{
            const townList = document.getElementById('town-list');
@@ -22,7 +24,7 @@ function getTownMenu(){
     //Display house details of a specific town  in main section
 function displayInMainSection(event){
     const clickedTownName = event.target.textContent;   
-    fetch('http://localhost:3000/houses')               
+    fetch(url)               
     .then(response=>response.json())
     .then(houses=>{
     let sameTown =houses.find(house=>{
